@@ -1,0 +1,8 @@
+TestRunnerClass.class
+com\pageVSclass\ormapp\PageVSClassMappings.class
+com\utilpackage\ormapp\JsonFileExtractor.class
+com\stepdefinations\ormapp\StepDefinations.class
+com\commonpage\ormapp\CommonUtils.class
+com\classpathassain\ormapp\ClassPathLoader.class
+com\pages\ormapp\LoginPage.class
+com\baseclass\ormapp\BaseClass.class
