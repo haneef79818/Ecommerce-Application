@@ -5,11 +5,17 @@
   <version>0.0.1-SNAPSHOT</version>
   <dependencies>
  <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-junit -->
+<!-- https://mvnrepository.com/artifact/org.testng/testng -->
+<dependency>
+    <groupId>org.testng</groupId>
+    <artifactId>testng</artifactId>
+    <version>7.10.2</version>
+    <scope>test</scope>
+</dependency>
 <dependency>
     <groupId>io.cucumber</groupId>
-    <artifactId>cucumber-junit</artifactId>
-    <version>7.22.0</version>
-    <scope>test</scope>
+    <artifactId>cucumber-testng</artifactId>
+    <version>7.14.0</version> <!-- Update to latest version -->
 </dependency>
 <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-core -->
 <dependency>
